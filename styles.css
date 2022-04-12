@@ -1,0 +1,96 @@
+body{
+   margin:0;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+}
+h1{
+    font-size: 5.625rem;
+    line-height: 2;
+    color:#66BFBF;
+   margin: 50px auto 0 auto; 
+   font-family: 'Sacramento', cursive;
+}
+h2{
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3{
+    color:  #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+div{
+    background-color:#E4F9F5;
+}
+.top-container{
+    background-color: #E4F9F5; 
+    position: relative;
+    padding-top: 100px;
+    border: solid 10px;
+}
+.top-container p{
+    font-size: 2.5rem;
+    color:#66BFBF;
+}
+.middle-container{  
+}
+.skill-row{
+    width: 50%;
+   margin: 100px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+}
+.skill-row p{
+    color:#40514E;
+}
+.bottom-container{
+    background-color: #E4F9F5; 
+}
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px; 
+}
+.bottom-cloud{
+    position:absolute;
+    left:300px;
+    bottom:300px;
+}
+.Aurore.jpg{
+    width:1%;
+}
+.nft-img{
+    float: right;
+    margin-right:50px;
+    width: 25%;
+}
+.avatar-img{
+    float: left;
+    margin-right:50px;
+    width: 25%;
+}
+.btn{
+    color:white;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+ background-image:linear-gradient( #11cdd4, #11999e);
+ border-radius: 8%;
+ padding: 5px 20px 5px 20px;
+ margin: 10%;
+ text-decoration: none;
+}
+.bottom-container{
+    padding:8% ;
+    background-color:#66BFBF ;
+}
+.bottom-container a{
+    color:#11999E ;
+    text-decoration: none;
+}
+.copyright{
+    color:#EAF6F6;
+}
